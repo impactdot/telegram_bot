@@ -12,7 +12,6 @@ from aiogram.utils import executor
 from datetime import datetime
 from decouple import config
 
-
 crypto_pairs = ["BTCUSDT", "ETHUSDT", "XRPUSDT", "LTCUSDT", "BNBUSDT", "ADAUSDT"]
 
 # Create a reply keyboard
