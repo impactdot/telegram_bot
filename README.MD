@@ -1,7 +1,3 @@
-Certainly! Below is a sample README for your Telegram Alert Bot project.
-
----
-
 # Telegram Alert Bot 🚀
 
 ## Overview
@@ -28,13 +24,13 @@ This Telegram bot is designed to notify users about cryptocurrency price changes
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/telegram-alert-bot.git
+    git clone https://github.com/yourusername/telegram_bot.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd telegram-alert-bot
+    cd telegram_bot
     ```
 
 3. Install the required packages:
@@ -46,7 +42,7 @@ This Telegram bot is designed to notify users about cryptocurrency price changes
 4. Create a `.env` file and add your Telegram bot token:
 
     ```env
-    TELEGRAM_BOT_TOKEN=your_token_here
+    TOKEN=your_token_here
     ```
 
 5. Run the bot:
@@ -71,7 +67,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
----
-
-Feel free to modify this README to better suit your project!

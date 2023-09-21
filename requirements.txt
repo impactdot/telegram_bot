@@ -1,0 +1,6 @@
+aiogram==2.12
+asyncio
+requests
+datetime
+python-decouple
+logging
