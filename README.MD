@@ -2,8 +2,6 @@
 
 ## Overview
 
-This Telegram bot is designed to notify users about cryptocurrency price changes and news updates. Users can select specific cryptocurrency pairs to track and set custom intervals and thresholds for alerts.
-
 ## Features
 
 -   **Price Alerts**: Notifies users when the price of a selected cryptocurrency changes by a certain percentage.
